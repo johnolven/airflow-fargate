@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MaterialThemeProjectConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isActive" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="useProjectFrame" value="true" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="highlightColor" value="42db32" />
+    <option name="projectFrameColor" value="42db32" />
+  </component>
+</project>
